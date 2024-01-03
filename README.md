@@ -1,4 +1,5 @@
-Pizza Restaurant Web Page
+
+<h1>Pizza Restaurant Web Page</h1>
 
 Welcome to the Pizza Restaurant Web Page project! 
 This is a simple and visually appealing website for a fictional pizza restaurant, created using HTML, CSS, and Bootstrap.
